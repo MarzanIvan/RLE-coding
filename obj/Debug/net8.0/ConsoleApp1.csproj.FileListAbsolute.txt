@@ -1,0 +1,28 @@
+C:\Users\bossm\YandexDisk\@university\Current Semester\Information Techonology\Laboratory Works\ЛР 3 Марзан\project\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\bossm\YandexDisk\@university\Current Semester\Information Techonology\Laboratory Works\ЛР 3 Марзан\project\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\bossm\YandexDisk\@university\Current Semester\Information Techonology\Laboratory Works\ЛР 3 Марзан\project\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\bossm\YandexDisk\@university\Current Semester\Information Techonology\Laboratory Works\ЛР 3 Марзан\project\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\bossm\YandexDisk\@university\Current Semester\Information Techonology\Laboratory Works\ЛР 3 Марзан\project\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\bossm\YandexDisk\@university\Current Semester\Information Techonology\Laboratory Works\ЛР 3 Марзан\project\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bossm\YandexDisk\@university\Current Semester\Information Techonology\Laboratory Works\ЛР 3 Марзан\project\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\bossm\YandexDisk\@university\Current Semester\Information Techonology\Laboratory Works\ЛР 3 Марзан\project\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\bossm\YandexDisk\@university\Current Semester\Information Techonology\Laboratory Works\ЛР 3 Марзан\project\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\bossm\YandexDisk\@university\Current Semester\Information Techonology\Laboratory Works\ЛР 3 Марзан\project\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\bossm\YandexDisk\@university\Current Semester\Information Techonology\Laboratory Works\ЛР 3 Марзан\project\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\bossm\YandexDisk\@university\Current Semester\Information Techonology\Laboratory Works\ЛР 3 Марзан\project\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\bossm\YandexDisk\@university\Current Semester\Information Techonology\Laboratory Works\ЛР 3 Марзан\project\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\bossm\YandexDisk\@university\Current Semester\Information Techonology\Laboratory Works\ЛР 3 Марзан\project\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\bossm\YandexDisk\@university\Current Semester\Information Techonology\Laboratory Works\ЛР 3 Марзан DONE\project\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\bossm\YandexDisk\@university\Current Semester\Information Techonology\Laboratory Works\ЛР 3 Марзан DONE\project\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\bossm\YandexDisk\@university\Current Semester\Information Techonology\Laboratory Works\ЛР 3 Марзан DONE\project\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\bossm\YandexDisk\@university\Current Semester\Information Techonology\Laboratory Works\ЛР 3 Марзан DONE\project\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\bossm\YandexDisk\@university\Current Semester\Information Techonology\Laboratory Works\ЛР 3 Марзан DONE\project\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\bossm\YandexDisk\@university\Current Semester\Information Techonology\Laboratory Works\ЛР 3 Марзан DONE\project\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bossm\YandexDisk\@university\Current Semester\Information Techonology\Laboratory Works\ЛР 3 Марзан DONE\project\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\bossm\YandexDisk\@university\Current Semester\Information Techonology\Laboratory Works\ЛР 3 Марзан DONE\project\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\bossm\YandexDisk\@university\Current Semester\Information Techonology\Laboratory Works\ЛР 3 Марзан DONE\project\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\bossm\YandexDisk\@university\Current Semester\Information Techonology\Laboratory Works\ЛР 3 Марзан DONE\project\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\bossm\YandexDisk\@university\Current Semester\Information Techonology\Laboratory Works\ЛР 3 Марзан DONE\project\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\bossm\YandexDisk\@university\Current Semester\Information Techonology\Laboratory Works\ЛР 3 Марзан DONE\project\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\bossm\YandexDisk\@university\Current Semester\Information Techonology\Laboratory Works\ЛР 3 Марзан DONE\project\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\bossm\YandexDisk\@university\Current Semester\Information Techonology\Laboratory Works\ЛР 3 Марзан DONE\project\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
